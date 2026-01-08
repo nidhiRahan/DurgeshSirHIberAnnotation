@@ -25,11 +25,8 @@ public class SQLExample {
 			System.out.println(student[0]+" : "+student[4]);
 			//System.out.println(Arrays.toString(student));
 		}
-		
-		
-		
 		s.close();
 		factory.close();
 	}
-
 }
+
